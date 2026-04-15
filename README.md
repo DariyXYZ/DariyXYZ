@@ -23,6 +23,10 @@ Codex-native skill for generating copy-paste-ready C# and Python code for Grassh
 
 Toolkit for installing, migrating, validating, and packaging Claude-oriented skills for Codex.
 
+### [grasshopper-plugin-development](https://github.com/DariyXYZ/grasshopper-plugin-development)
+
+Codex-native skill for compiled Rhino 8 and Grasshopper plugin architecture, Yak packaging, and Package Manager release workflow.
+
 ## Working style
 
 - practical over ornamental
