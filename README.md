@@ -1,46 +1,47 @@
 # DariyXYZ
 
-I build practical tools for Rhino and Grasshopper, Codex-oriented developer workflows, and technical UI work.
+I build practical **Rhino / Grasshopper plugins** and **Codex-native developer tools**.
 
-## Focus
+My public GitHub is organized as a small focused library around two themes:
 
 - Grasshopper and Rhino 8 plugins
-- Codex skills and automation tooling
-- developer-focused utilities and workflow improvements
-- frontend and Figma implementation when product work needs it
+- Codex skills and workflow tooling for technical users
 
-## Featured repositories
+## Rhino / Grasshopper Plugins
 
-### [GhClickHeatmap](https://github.com/DariyXYZ/GhClickHeatmap)
+### [grasshopper-crowd-flow](https://github.com/DariyXYZ/grasshopper-crowd-flow)
 
-Rhino 8 and Grasshopper plugin for recording component click activity and visualizing a usability heatmap overlay on the Grasshopper canvas.
+Rhino 8 and Grasshopper plugin for crowd simulation, circulation heatmaps, and report-ready exports.
+
+### [grasshopper-click-heatmap](https://github.com/DariyXYZ/grasshopper-click-heatmap)
+
+Rhino 8 and Grasshopper plugin for click analytics and usability heatmaps on the Grasshopper canvas.
+
+## Codex Skills
 
 ### [grasshopper-script-nodes](https://github.com/DariyXYZ/grasshopper-script-nodes)
 
-Codex-native skill for generating copy-paste-ready C# and Python code for Grasshopper script nodes with local environment detection and RhinoCommon lookup support.
-
-### [claude-codex-skill-toolkit](https://github.com/DariyXYZ/claude-codex-skill-toolkit)
-
-Toolkit for installing, migrating, validating, and packaging Claude-oriented skills for Codex.
+Codex skill for Rhino and Grasshopper script nodes with C#, Python, RhinoCommon lookup, and local environment detection.
 
 ### [grasshopper-plugin-development](https://github.com/DariyXYZ/grasshopper-plugin-development)
 
-Codex-native skill for compiled Rhino 8 and Grasshopper plugin architecture, Yak packaging, and Package Manager release workflow.
+Codex skill for Rhino 8 and Grasshopper plugin architecture, Yak packaging, and public release workflow.
 
-## Working style
+### [codex-skill-toolkit-for-claude](https://github.com/DariyXYZ/codex-skill-toolkit-for-claude)
+
+Codex-native toolkit for migrating, validating, packaging, and installing Claude-oriented skills.
+
+## What This Library Focuses On
+
+- Rhino 8 and Grasshopper plugin development
+- Grasshopper scripting workflows
+- Codex skills and developer tooling
+- practical release and packaging workflows
+- technical repositories that are easy to discover and reuse
+
+## Working Style
 
 - practical over ornamental
-- reusable documentation and durable context
-- architecture that can grow without becoming bloated
-- careful separation between compiled plugin work and script-node workflows
-
-## Current themes
-
-- Grasshopper plugin architecture
-- script-node reliability for Rhino and Grasshopper
-- GitHub-ready packaging for public tools
-- workflow quality and discoverability for technical repos
-
-## Notes
-
-This profile is intentionally focused on working software, public tooling, and maintainable developer workflows.
+- strong naming and documentation
+- reusable tools over one-off experiments
+- public repos that are easy to scan, try, and adopt
